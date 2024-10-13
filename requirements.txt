@@ -1,0 +1,18 @@
+# Bibliothèques principales
+geopandas
+streamlit
+transformers
+langchain
+langchain-community
+openai
+tiktoken
+langchain-openai
+faiss-cpu
+datasets
+
+# Bibliothèques supplémentaires
+pyngrok
+annoy
+
+# Dépendances
+numpy
